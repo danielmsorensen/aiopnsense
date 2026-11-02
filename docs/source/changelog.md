@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.1](https://github.com/Snuffy2/aiopnsense/compare/v1.4.0...v1.4.1) (2026-11-02)
+
+
+### Dependencies
+
+* update prek hooks ([#174](https://github.com/Snuffy2/aiopnsense/issues/174)) ([a28688b](https://github.com/Snuffy2/aiopnsense/commit/a28688b5d92627cb9966f31063e7a80aabcc7039))
+
 ## [1.4.0](https://github.com/Snuffy2/aiopnsense/compare/v1.3.3...v1.4.0) (2026-11-01)
 
 
